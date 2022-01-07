@@ -2,3 +2,4 @@ Use git status to see what changes have or have not been staged or commited
 
 Use git add to stage
 
+Use git commit to commit changes
